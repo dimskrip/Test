@@ -6,3 +6,5 @@ class Greeter
     "Hello, #{@who}"
   end
 end
+
+commit 2-branch greeter_Skrypchenko
