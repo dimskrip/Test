@@ -1,4 +1,3 @@
-Hello world 1
+Hello world 1 conflict in master
 Hello world 11
-Hello world 111
-add
+Hello world 111add
